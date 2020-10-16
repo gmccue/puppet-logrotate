@@ -6,6 +6,7 @@
     - set: ubuntu1604-64
     - set: centos7-64
     - set: centos6-64
+    - set: debian10-64
     - set: debian9-64
     - set: debian8-64
 spec/spec_helper_acceptance.rb:
